@@ -1,4 +1,4 @@
-# 基于Nginx+Lua实现的Token鉴权认证
+基于Nginx+Lua实现的Token鉴权认证
 
 ## 一、Openresty模块：
 
@@ -85,11 +85,11 @@ Nginx的请求处理阶段有11，其中最重要的也是最常见的3个阶段
 
 1、管理员发布页面：
 
-![]()
+![](https://github.com/1170159634/PageSafetyCertification/blob/master/images/framework-1.png?raw=true)
 
 2、用户访问页面：
 
-
+https://github.com/1170159634/PageSafetyCertification/blob/master/images/framework-1.png?raw=true
 
 ## 五、解决思路及方案？
 
