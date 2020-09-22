@@ -83,13 +83,17 @@ Nginx的请求处理阶段有11，其中最重要的也是最常见的3个阶段
 
   首先了解下系统基本架构：
 
-1、管理员发布页面：
+1、管理员发布页面流程：
 
-![](https://github.com/1170159634/PageSafetyCertification/blob/master/images/framework-1.png?raw=true)
+<img src="<https://raw.githubusercontent.com/1170159634/PageSafetyCertification/master/images/framework-1.png>">
 
-2、用户访问页面：
+2、用户访问页面流程：
 
-https://github.com/1170159634/PageSafetyCertification/blob/master/images/framework-1.png?raw=true
+<img src="<https://raw.githubusercontent.com/1170159634/PageSafetyCertification/master/images/framework-2.png>">
+
+3、遇到了哪些难题？
+
+<img src="<https://raw.githubusercontent.com/1170159634/PageSafetyCertification/master/images/framework-3.png>">
 
 ## 五、解决思路及方案？
 
