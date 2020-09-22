@@ -1,8 +1,0 @@
-     location ~\.shtml{
-                        default_type "text/html";
-                        lua_code_cache off;
-                        rewrite_by_lua_file  lua/hlw_dev.lua;
-                        #所有跳转页面都会以当前这个目录为根目录进行查找
-                        root /home/leiming/project/caigouwang/www;
-                        charset utf-8;
-                 }
